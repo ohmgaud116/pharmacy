@@ -14,4 +14,4 @@ if __name__ == "__main__":
     root = Tk()
     obj = pharmacymanagementSystem(root)
     root.mainloop()
-    ggm
+    
