@@ -15,3 +15,4 @@ if __name__ == "__main__":
     obj = pharmacymanagementSystem(root)
     root.mainloop()
     rtg55
+fgv y
